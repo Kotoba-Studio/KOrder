@@ -1,0 +1,198 @@
+prefix: '<#cbbdc3>› <#e7e2e6>ᴋᴏʀᴅᴇʀ <#aeb7bf>• '
+no-permission: <#d4b9c0>ɴᴏ ᴛɪᴇɴᴇs ᴘᴇʀᴍɪsᴏ ᴘᴀʀᴀ ᴜsᴀʀ ᴇsᴛᴏ.
+vault-missing: <#d4b9c0>ʟᴀ ᴇᴄᴏɴᴏᴍíᴀ ɴᴏ ᴇsᴛá ʟɪsᴛᴀ ᴏ ᴄᴏɴᴇᴄᴛᴀᴅᴀ.
+starting: <#aeb7bf>ᴋᴏʀᴅᴇʀ sᴇ ᴇsᴛá ɪɴɪᴄɪᴀɴᴅᴏ. ɪɴᴛéɴᴛᴀʟᴏ ᴅᴇ ɴᴜᴇᴠᴏ ᴇɴ ʙʀᴇᴠᴇ.
+invalid-input: <#d4b9c0>ᴅᴀᴛᴏs ɴᴏ ᴠáʟɪᴅᴏs.
+dialog-expired: <#d4b9c0>ᴇsᴛᴇ ᴅɪáʟᴏɢᴏ ᴄᴀᴅᴜᴄó ᴏ ʏᴀ ғᴜᴇ ᴄᴏɴғɪʀᴍᴀᴅᴏ.
+search-fallback: <#d4b9c0>ɴᴏ sᴇ ᴘᴜᴅᴏ ᴀʙʀɪʀ ʟᴀ ʙúsǫᴜᴇᴅᴀ.
+delivery-ui-unavailable: <#d4b9c0>ɴᴏ sᴇ ᴘᴜᴅᴏ ᴀʙʀɪʀ ʟᴀ ᴇɴᴛʀᴇɢᴀ.
+delivery-cursor: <#d4b9c0>ᴅᴇᴠᴜᴇʟᴠᴇ ᴘʀɪᴍᴇʀᴏ ᴇʟ ᴏʙᴊᴇᴛᴏ ᴅᴇʟ ᴄᴜʀsᴏʀ ᴀ ᴛᴜ ɪɴᴠᴇɴᴛᴀʀɪᴏ.
+delivery-wrong-item: <#d4b9c0>ᴇʟ ᴏʙᴊᴇᴛᴏ ɴᴏ ᴄᴏɪɴᴄɪᴅᴇ ᴄᴏɴ ᴇʟ ᴘᴇᴅɪᴅᴏ. ᴛᴜs ᴏʙᴊᴇᴛᴏs ғᴜᴇʀᴏɴ ᴅᴇᴠᴜᴇʟᴛᴏs.
+delivery-too-many: <#d4b9c0>ᴇsᴛᴇ ᴘᴇᴅɪᴅᴏ sᴏʟᴏ ɴᴇᴄᴇsɪᴛᴀ <#e7e2e6>{max}<#d4b9c0> ᴏʙᴊᴇᴛᴏs ᴍás.
+delivery-excess-returned: <#aeb7bf>sᴇ ᴅᴇᴠᴏʟᴠɪᴇʀᴏɴ <#e7e2e6>{amount}x<#aeb7bf> ᴏʙᴊᴇᴛᴏs sᴏʙʀᴀɴᴛᴇs.
+delivery-return-stash: <#aeb7bf>ᴛᴜ ɪɴᴠᴇɴᴛᴀʀɪᴏ ᴇsᴛá ʟʟᴇɴᴏ. ᴇʟ ʀᴇsᴛᴏ ғᴜᴇ ᴇɴᴠɪᴀᴅᴏ ᴀʟ ᴀʟᴍᴀᴄéɴ ᴅᴇ ᴇɴᴛʀᴇɢᴀ.
+ui-load-failed: <#d4b9c0>ɴᴏ sᴇ ᴘᴜᴅɪᴇʀᴏɴ ᴄᴀʀɢᴀʀ ʟᴏs ᴘᴇᴅɪᴅᴏs. ɪɴᴛéɴᴛᴀʟᴏ ᴅᴇ ɴᴜᴇᴠᴏ.
+order-created: '<#c1d6c5>ᴘᴇᴅɪᴅᴏ ᴄʀᴇᴀᴅᴏ: <#e7e2e6>{amount}x {item}<#c1d6c5>, ʀᴇᴛᴇɴɪᴅᴏ <#e7e2e6>{total}<#c1d6c5>.'
+insufficient-funds: <#d4b9c0>ᴅɪɴᴇʀᴏ ɪɴsᴜғɪᴄɪᴇɴᴛᴇ. ɴᴇᴄᴇsɪᴛᴀs <#e7e2e6>{need}<#d4b9c0>, ᴛɪᴇɴᴇs <#e7e2e6>{have}<#d4b9c0>.
+limit-reached: <#d4b9c0>ʜᴀs ᴀʟᴄᴀɴᴢᴀᴅᴏ ᴇʟ ʟíᴍɪᴛᴇ ᴅᴇ <#e7e2e6>{limit}<#d4b9c0> ᴘᴇᴅɪᴅᴏs ᴀᴄᴛɪᴠᴏs.
+order-not-found: <#d4b9c0>ᴇsᴛᴇ ᴘᴇᴅɪᴅᴏ ʏᴀ ɴᴏ ᴇxɪsᴛᴇ ᴏ ᴀᴄᴀʙᴀ ᴅᴇ ᴄᴀᴍʙɪᴀʀ.
+order-busy: <#d4b9c0>ᴇsᴛᴇ ᴘᴇᴅɪᴅᴏ sᴇ ᴇsᴛá ᴘʀᴏᴄᴇsᴀɴᴅᴏ. Áʙʀᴇʟᴏ ᴅᴇ ɴᴜᴇᴠᴏ ᴇɴ ʙʀᴇᴠᴇ.
+order-cancelled: '<#c1d6c5>ᴘᴇᴅɪᴅᴏ ᴄᴀɴᴄᴇʟᴀᴅᴏ. ʀᴇᴇᴍʙᴏʟsᴏ: <#e7e2e6>{money}<#c1d6c5>.'
+delivered: <#c1d6c5>ᴇɴᴛʀᴇɢᴀsᴛᴇ <#e7e2e6>{amount}x {item}<#c1d6c5> ʏ ʀᴇᴄɪʙɪsᴛᴇ <#e7e2e6>{money}<#c1d6c5>.
+delivery-amount-changed: <#d4b9c0>ʟᴀ ᴄᴀɴᴛɪᴅᴀᴅ ᴄᴀᴍʙɪó. ᴀʜᴏʀᴀ ᴘᴜᴇᴅᴇs ᴇɴᴛʀᴇɢᴀʀ ʜᴀsᴛᴀ <#e7e2e6>{max}<#d4b9c0>.
+delivery-empty: <#aeb7bf>ᴄᴏʟᴏᴄᴀ ᴀʀʀɪʙᴀ ʟᴏs ᴏʙᴊᴇᴛᴏs ǫᴜᴇ ǫᴜɪᴇʀᴇs ᴇɴᴛʀᴇɢᴀʀ.
+no-matching-items: <#d4b9c0>ɴᴏ ᴛɪᴇɴᴇs ᴜɴ ᴏʙᴊᴇᴛᴏ ǫᴜᴇ ᴄᴏɪɴᴄɪᴅᴀ ᴇxᴀᴄᴛᴀᴍᴇɴᴛᴇ ᴄᴏɴ ᴇsᴛᴇ ᴘᴇᴅɪᴅᴏ.
+creative-blocked: <#d4b9c0>ɴᴏ ᴘᴜᴇᴅᴇs ᴇɴᴛʀᴇɢᴀʀ ᴘᴇᴅɪᴅᴏs ᴇɴ ᴍᴏᴅᴏ ᴄʀᴇᴀᴛɪᴠᴏ.
+action-busy: <#d4b9c0>sᴇ ᴇsᴛá ᴘʀᴏᴄᴇsᴀɴᴅᴏ ᴏᴛʀᴀ ᴛʀᴀɴsᴀᴄᴄɪóɴ.
+stash-collected: <#c1d6c5>ʀᴇᴄɪʙɪsᴛᴇ <#e7e2e6>{count}<#c1d6c5> ᴏʙᴊᴇᴛᴏs.
+stash-partial: <#c1d6c5>ʀᴇᴄɪʙɪsᴛᴇ <#e7e2e6>{count}<#c1d6c5> ᴏʙᴊᴇᴛᴏs; ᴇʟ ʀᴇsᴛᴏ sɪɢᴜᴇ ɢᴜᴀʀᴅᴀᴅᴏ.
+stash-empty: <#aeb7bf>ᴇʟ ᴀʟᴍᴀᴄéɴ ᴅᴇ ᴇɴᴛʀᴇɢᴀ ᴇsᴛá ᴠᴀᴄíᴏ.
+stash-full: <#d4b9c0>ɴᴏ ʜᴀʏ ᴇsᴘᴀᴄɪᴏ ᴄᴏᴍᴘᴀᴛɪʙʟᴇ. ʟᴏs ᴏʙᴊᴇᴛᴏs sɪɢᴜᴇɴ ɢᴜᴀʀᴅᴀᴅᴏs.
+stash-locked: <#d4b9c0>ᴀʟɢᴜɴᴏs ᴏʙᴊᴇᴛᴏs ᴇsᴛáɴ ᴘʀᴏᴛᴇɢɪᴅᴏs. ɪɴᴛéɴᴛᴀʟᴏ ᴅᴇ ɴᴜᴇᴠᴏ ᴇɴ ʙʀᴇᴠᴇ.
+economy-precision: <#d4b9c0>ʟᴀ ᴇᴄᴏɴᴏᴍíᴀ ɴᴏ ᴀᴅᴍɪᴛᴇ ᴇsᴛᴇ ᴘʀᴇᴄɪᴏ ᴇxᴀᴄᴛᴏ.
+economy-failed: '<#d4b9c0>ʟᴀ ᴇᴄᴏɴᴏᴍíᴀ ɴᴏ ᴄᴏɴғɪʀᴍó ʟᴀ ᴛʀᴀɴsᴀᴄᴄɪóɴ. ɪᴅ: <#e7e2e6>{tx}<#d4b9c0>.'
+internal-error: <#d4b9c0>ʟᴀ ᴛʀᴀɴsᴀᴄᴄɪóɴ ᴇsᴛá ᴘʀᴏᴛᴇɢɪᴅᴀ. ɪɴᴛéɴᴛᴀʟᴏ ᴅᴇ ɴᴜᴇᴠᴏ ᴏ ᴀᴠɪsᴀ ᴀ ᴜɴ ᴀᴅᴍɪɴɪsᴛʀᴀᴅᴏʀ.
+reloaded: <#c1d6c5>ᴄᴏɴғɪɢᴜʀᴀᴄɪóɴ ᴇ ɪᴅɪᴏᴍᴀ ʀᴇᴄᴀʀɢᴀᴅᴏs.
+broadcast-prefix: '<#9ea8b1>› <#e7e2e6>ᴏʀᴅᴇʀ <#9ea8b1>• '
+broadcast-created: <#e7e2e6>{player} <#aeb7bf>ᴄᴏᴍᴘʀᴀ <#e7e2e6>{amount}x {item} <#aeb7bf>ᴘᴏʀ <#c1d6c5>{unit}/objeto<#aeb7bf>.
+order-arrived: <#c6d9ca>ᴛᴜ ᴘᴇᴅɪᴅᴏ ʀᴇᴄɪʙɪó <#e7e2e6>{amount}x {item}<#c6d9ca>. ᴀʙʀᴇ <#e7e2e6>/order<#c6d9ca> ᴘᴀʀᴀ ʀᴇᴄᴏɢᴇʀʟᴏ.
+stash-waiting: <#c6d9ca>ᴛɪᴇɴᴇs ᴏʙᴊᴇᴛᴏs ᴇsᴘᴇʀᴀɴᴅᴏ. ᴀʙʀᴇ <#e7e2e6>/order<#c6d9ca> ᴘᴀʀᴀ ʀᴇᴄᴏɢᴇʀʟᴏs.
+ui:
+  title:
+    king:
+      public: <#e9e4e7>ᴘᴇᴅɪᴅᴏs <#949da5>({page}/{pages})
+      mine: <#e9e4e7>ᴛᴜs ᴘᴇᴅɪᴅᴏs <#949da5>({page}/{pages})
+      catalog: <#e9e4e7>ᴏʙᴊᴇᴛᴏs <#949da5>({page})
+      stash: <#e9e4e7>ᴀʟᴍᴀᴄéɴ ᴅᴇ ᴇɴᴛʀᴇɢᴀ
+      detail: '<#e9e4e7>ᴘᴇᴅɪᴅᴏ #{order}'
+    modern:
+      public: <#e7e2e6>ᴍᴇʀᴄᴀᴅᴏ <#909aa3>• {page}
+      mine: <#e7e2e6>ᴍɪs ᴘᴇᴅɪᴅᴏs <#909aa3>• {page}
+      catalog: <#e7e2e6>ᴏʙᴊᴇᴛᴏs <#909aa3>• {page}
+      stash: <#e7e2e6>ᴇɴᴛʀᴇɢᴀs
+      detail: '<#e7e2e6>ᴘᴇᴅɪᴅᴏ #{order}'
+    custom:
+      public: <#e7e1e5>ᴘᴇᴅɪᴅᴏs <#8f969d>({page}/{pages})
+      mine: <#e7e1e5>ᴍɪs ᴘᴇᴅɪᴅᴏs <#8f969d>({page}/{pages})
+      catalog: <#e7e1e5>ᴏʙᴊᴇᴛᴏs <#8f969d>• {page}
+      stash: <#e7e1e5>ᴀʟᴍᴀᴄéɴ ᴅᴇ ᴇɴᴛʀᴇɢᴀ
+      detail: '<#e7e1e5>ᴘᴇᴅɪᴅᴏ #{order}'
+  empty:
+    public: ᴀúɴ ɴᴏ ʜᴀʏ ᴘᴇᴅɪᴅᴏs ᴄᴏᴍᴘᴀᴛɪʙʟᴇs
+    search: ɴᴏ sᴇ ᴇɴᴄᴏɴᴛʀᴀʀᴏɴ ᴘᴇᴅɪᴅᴏs
+    mine: ɴᴏ ᴛɪᴇɴᴇs ᴘᴇᴅɪᴅᴏs
+    catalog: ɴᴏ sᴇ ᴇɴᴄᴏɴᴛʀᴀʀᴏɴ ᴏʙᴊᴇᴛᴏs
+    order: ᴇʟ ᴘᴇᴅɪᴅᴏ ʏᴀ ɴᴏ ᴇxɪsᴛᴇ
+    stash: ᴇʟ ᴀʟᴍᴀᴄéɴ ᴇsᴛá ᴠᴀᴄíᴏ
+  button:
+    back: <#aeb7bf>ᴠᴏʟᴠᴇʀ
+    deliver: <#c9dacb>ᴇɴᴛʀᴇɢᴀʀ
+    deliver-lore: <#87919a>ᴇʟɪɢᴇ ʟᴀ ᴄᴀɴᴛɪᴅᴀᴅ
+    cancel: <#d9bdc4>ᴄᴀɴᴄᴇʟᴀʀ ᴘᴇᴅɪᴅᴏ
+    cancel-lore: <#87919a>ᴅᴇᴠᴜᴇʟᴠᴇ ᴇʟ sᴀʟᴅᴏ ʀᴇsᴛᴀɴᴛᴇ
+    collect: <#c9dacb>ʀᴇᴄᴏɢᴇʀ
+    collect-lore: <#87919a>ᴏʙᴊᴇᴛᴏs ᴇsᴘᴇʀᴀɴᴅᴏ
+    collect-all: <#c9dacb>ʀᴇᴄᴏɢᴇʀ ᴛᴏᴅᴏ
+    previous: <#b9d8b7>ᴘáɢɪɴᴀ ᴀɴᴛᴇʀɪᴏʀ
+    next: <#b9d8b7>ᴘáɢɪɴᴀ sɪɢᴜɪᴇɴᴛᴇ
+    sort: <#b9d8b7>ᴏʀᴅᴇɴᴀʀ
+    filter: <#b9d8b7>ғɪʟᴛʀᴏ
+    reload: <#b9d8b7>ᴀᴄᴛᴜᴀʟɪᴢᴀʀ
+    search: <#b9d8b7>ʙᴜsᴄᴀʀ
+    my-orders: <#b9d8b7>ᴛᴜs ᴘᴇᴅɪᴅᴏs
+    create: <#c6d9ca>ᴄʀᴇᴀʀ ᴘᴇᴅɪᴅᴏ
+    all-orders: <#d8dee3>ᴛᴏᴅᴏs ʟᴏs ᴘᴇᴅɪᴅᴏs
+    held-item: <#d8dee3>ᴏʙᴊᴇᴛᴏ ᴇɴ ᴍᴀɴᴏ
+    held-item-lore: <#909aa3>ᴄᴏɪɴᴄɪᴅᴇ ɴᴏᴍʙʀᴇ • ʟᴏʀᴇ • ᴇɴᴄᴀɴᴛᴀᴍɪᴇɴᴛᴏ
+    search-item: <#d8dee3>ʙᴜsᴄᴀʀ ᴏʙᴊᴇᴛᴏ
+    search-hint: <#909aa3>ᴇsᴘᴀñᴏʟ / ᴇɴɢʟɪsʜ
+  category:
+    all: ᴛᴏᴅᴏ
+    blocks: ʙʟᴏǫᴜᴇs
+    tools: ʜᴇʀʀᴀᴍɪᴇɴᴛᴀs
+    food: ᴄᴏᴍɪᴅᴀ
+    combat: ᴄᴏᴍʙᴀᴛᴇ
+    potions: ᴘᴏᴄɪᴏɴᴇs
+    books: ʟɪʙʀᴏs
+    ingredients: ɪɴɢʀᴇᴅɪᴇɴᴛᴇs
+    utilities: ᴜᴛɪʟɪᴅᴀᴅᴇs
+  sort:
+    recent: ᴍás ʀᴇᴄɪᴇɴᴛᴇs
+    payout: ᴍᴀʏᴏʀ ᴘᴀɢᴏ
+    amount: ᴍᴀʏᴏʀ ᴄᴀɴᴛɪᴅᴀᴅ
+    unit-price: ᴍᴀʏᴏʀ ᴘʀᴇᴄɪᴏ ᴜɴɪᴛᴀʀɪᴏ
+  order:
+    need: <#aeb7bf>ғᴀʟᴛᴀɴ <#e7e1e5>{remaining}/{requested} <#87919a>• <#c6d7ca>{price}/ᴏʙᴊᴇᴛᴏ
+    buyer: <#aeb7bf>ᴄᴏᴍᴘʀᴀᴅᴏʀ <#e7e1e5>{buyer}
+    status: <#aeb7bf>ᴇsᴛᴀᴅᴏ {color}{status}
+    expires: <#87919a>{time}
+    click_manage: <#c9dacb>ᴄʟɪᴄ ᴘᴀʀᴀ ɢᴇsᴛɪᴏɴᴀʀ
+    click_deliver: <#c9dacb>ᴄʟɪᴄ ᴘᴀʀᴀ ᴇɴᴛʀᴇɢᴀʀ
+  status:
+    active: ᴀᴄᴛɪᴠᴏ
+    completed: ᴄᴏᴍᴘʟᴇᴛᴀᴅᴏ
+    cancelled: ᴄᴀɴᴄᴇʟᴀᴅᴏ
+    expired: ᴄᴀᴅᴜᴄᴀᴅᴏ
+  duration:
+    expired: ᴄᴀᴅᴜᴄᴀᴅᴏ
+    days: ǫᴜᴇᴅᴀɴ {days}ᴅ {hours}ʜ
+    hours: ǫᴜᴇᴅᴀɴ {hours}ʜ {minutes}ᴍ
+  stash:
+    locked: <#d9bdc4>ʙʟᴏǫᴜᴇᴀᴅᴏ ᴅᴇ ғᴏʀᴍᴀ sᴇɢᴜʀᴀ
+    tx: '<#87919a>ɪᴅ: {tx}'
+    ready: <#c9dacb>ʟɪsᴛᴏ ᴘᴀʀᴀ ʀᴇᴄᴏɢᴇʀ
+  loading: <#d7dce0>ᴄᴀʀɢᴀɴᴅᴏ...
+  load:
+    failed: <#d9bdc4>ɴᴏ sᴇ ᴘᴜᴅɪᴇʀᴏɴ ᴄᴀʀɢᴀʀ ʟᴏs ᴅᴀᴛᴏs
+    retry: <#87919a>ᴀʙʀᴇ ᴇʟ ᴍᴇɴú ᴏᴛʀᴀ ᴠᴇᴢ
+  catalog:
+    buy: <#aeb7bf>ᴄʟɪᴄ ᴘᴀʀᴀ ᴄʀᴇᴀʀ ᴘᴇᴅɪᴅᴏ
+dialog:
+  search:
+    title: ʙᴜsᴄᴀʀ
+    field: ʙᴜsᴄᴀʀ
+    placeholder: ᴛɪᴇʀʀᴀ, ᴅɪᴀᴍᴀɴᴛᴇ...
+    confirm: ʙᴜsᴄᴀʀ
+  create:
+    title: ᴄʀᴇᴀʀ ᴘᴇᴅɪᴅᴏ • {item}
+    hand-title: ᴘᴇᴅɪʀ ᴏʙᴊᴇᴛᴏ ᴇɴ ᴍᴀɴᴏ
+    amount: ᴄᴀɴᴛɪᴅᴀᴅ
+    price: ᴘʀᴇᴄɪᴏ / ᴏʙᴊᴇᴛᴏ
+    confirm: ᴄʀᴇᴀʀ ᴘᴇᴅɪᴅᴏ
+  common:
+    confirm: ᴄᴏɴғɪʀᴍᴀʀ
+    cancel: ᴄᴀɴᴄᴇʟᴀʀ
+    close: ᴄᴇʀʀᴀʀ
+delivery:
+  ui:
+    title: 'ᴇɴᴛʀᴇɢᴀ <#909aa3>• #{order}'
+    cancel: <#d9bdc4>ᴄᴇʀʀᴀʀ
+    amount: <#aeb7bf>ᴇɴᴛʀᴇɢᴀʀ <#e7e2e6>{amount}/{max}
+    payout: <#aeb7bf>ʀᴇᴄɪʙɪʀ <#c6d9ca>{money}
+    excess: <#d6c8aa>{amount}x ᴇxᴛʀᴀ • ᴅᴇᴠᴜᴇʟᴛᴏ
+    confirm: <#c6d9ca>ᴄᴏɴғɪʀᴍᴀʀ ᴇɴᴛʀᴇɢᴀ
+command:
+  help:
+    header: <#e7e2e6>ᴋᴏʀᴅᴇʀ <#aeb7bf>• ᴀʏᴜᴅᴀ <#87919a>ᴠ{version}
+    open: <#e7e2e6>/korder <#aeb7bf>• ᴀʙʀɪʀ ᴇʟ ᴍᴇʀᴄᴀᴅᴏ ᴅᴇ ᴘᴇᴅɪᴅᴏs
+    browse: <#e7e2e6>/korder browse <#aeb7bf>• ᴠᴇʀ ᴘᴇᴅɪᴅᴏs ᴅᴇ ᴄᴏᴍᴘʀᴀ ᴀᴄᴛɪᴠᴏs
+    search: <#e7e2e6>/korder search <query> <#aeb7bf>• ʙᴜsᴄᴀʀ ᴘᴇᴅɪᴅᴏs ᴘᴏʀ ᴏʙᴊᴇᴛᴏ
+    create: <#e7e2e6>/korder create <#aeb7bf>• ᴄʀᴇᴀʀ ᴜɴ ᴘᴇᴅɪᴅᴏ ᴅᴇ ᴄᴏᴍᴘʀᴀ
+    mine: <#e7e2e6>/korder mine <#aeb7bf>• ᴠᴇʀ ᴛᴜs ᴘᴇᴅɪᴅᴏs
+    stash: <#e7e2e6>/korder stash <#aeb7bf>• ᴀʙʀɪʀ ᴇʟ ᴀʟᴍᴀᴄéɴ ᴅᴇ ᴇɴᴛʀᴇɢᴀ
+    deliver: <#e7e2e6>/korder deliver <id> <amount> <#aeb7bf>• ᴇɴᴛʀᴇɢᴀʀ ᴜɴᴀ ᴄᴀɴᴛɪᴅᴀᴅ ᴀ ᴜɴ ᴘᴇᴅɪᴅᴏ
+    reload: <#e7e2e6>/korder reload <#aeb7bf>• ʀᴇᴄᴀʀɢᴀʀ ᴄᴏɴғɪɢ ᴇ ɪᴅɪᴏᴍᴀ
+    admin: <#e7e2e6>/korder admin <#aeb7bf>• ᴀʙʀɪʀ ʜᴇʀʀᴀᴍɪᴇɴᴛᴀs ᴀᴅᴍɪɴ
+    footer: <#87919a>ᴋ-sᴛᴜᴅɪᴏ • https://discord.gg/x9ScDT7fCV
+  usage:
+    deliver: <#e7e2e6>/korder deliver <id> <amount>
+admin:
+  help:
+    header: <#e7e2e6>ᴋᴏʀᴅᴇʀ ᴀᴅᴍɪɴ
+    info: <#e7e2e6>/korder admin info <#aeb7bf>• ᴍᴏsᴛʀᴀʀ ɪɴғᴏʀᴍᴀᴄɪóɴ ᴅᴇʟ sɪsᴛᴇᴍᴀ
+    pending: <#e7e2e6>/korder admin pending <#aeb7bf>• ᴠᴇʀ ᴛʀᴀɴsᴀᴄᴄɪᴏɴᴇs sɪɴ ᴄᴏɴғɪʀᴍᴀʀ
+    tx: <#e7e2e6>/korder admin tx <id> <#aeb7bf>• ᴠᴇʀ ᴜɴᴀ ᴛʀᴀɴsᴀᴄᴄɪóɴ
+    reload: <#e7e2e6>/korder admin reload <#aeb7bf>• ʀᴇᴄᴀʀɢᴀʀ ᴋᴏʀᴅᴇʀ
+  info:
+    header: <#e7e2e6>ᴋᴏʀᴅᴇʀ • ᴇsᴛᴀᴅᴏ
+    version: '<#aeb7bf>ᴠᴇʀsɪóɴ: {version}'
+    locale: '<#aeb7bf>ɪᴅɪᴏᴍᴀ: {locale}'
+    ui: '<#aeb7bf>ɪɴᴛᴇʀғᴀᴢ: {ui}'
+    economy: '<#aeb7bf>ᴇᴄᴏɴᴏᴍíᴀ: {economy}'
+  pending:
+    header: '<#e7e2e6>ᴛʀᴀɴsᴀᴄᴄɪᴏɴᴇs sɪɴ ᴄᴏɴғɪʀᴍᴀʀ: {count}'
+    empty: <#c1d6c5>ɴᴏ ʜᴀʏ ᴛʀᴀɴsᴀᴄᴄɪᴏɴᴇs ᴘᴀʀᴀ ʀᴇᴠɪsᴀʀ
+  usage:
+    tx: <#e7e2e6>/korder admin tx <id>
+  tx:
+    not-found: <#d4b9c0>ᴛʀᴀɴsᴀᴄᴄɪóɴ ɴᴏ ᴇɴᴄᴏɴᴛʀᴀᴅᴀ
+  error: '<#d4b9c0>ɴᴏ sᴇ ᴘᴜᴅɪᴇʀᴏɴ ʟᴇᴇʀ ʟᴏs ᴅᴀᴛᴏs: {error}'
+  ledger:
+    main: <#8f969d>• <#e8dfe2>{tx} <#aeb9c3>[{kind}] <#d9e1e8>{amount} <#aeb9c3>sᴛᴀᴛᴇ=<#e8dfe2>{state}
+    meta: '  <#8f969d>ᴏᴡɴᴇʀ={owner} ʀᴇғ={ref} ᴜᴘᴅᴀᴛᴇᴅ={updated}'
+    detail: '  <#8f969d>{detail}'
+update:
+  available: <#aeb7bf>› <#e7e2e6>ᴋᴏʀᴅᴇʀ <#aeb7bf>• ɴᴜᴇᴠᴀ ᴠᴇʀsɪóɴ <#c1d6c5>{latest}<#aeb7bf> • ᴀᴄᴛᴜᴀʟ <#e7e2e6>{current}
+  download: <#87919a>{url}
+item:
+  unknown: ᴏʙᴊᴇᴛᴏ ᴅᴇsᴄᴏɴᴏᴄɪᴅᴏ
